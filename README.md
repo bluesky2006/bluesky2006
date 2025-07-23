@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I'm a **software developer** and former **print designer** with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**. The tech industry’s mix of **creativity, continuous learning and problem-solving** aligns perfectly with how I like to work.
+I'm a **software developer** and former **print designer** with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**.
 
 📬 **Contact:**  
 [![Email](https://img.shields.io/badge/-simon.busby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.busby@gmail.com)  
@@ -50,21 +50,19 @@ I'm a **software developer** and former **print designer** with a strong eye for
 
 ## 💼 Technical experience
 
-### Software Development Bootcamp — *Northcoders*, **May–July 2025**  
+### Software Development Bootcamp, *Northcoders*, **May–July 2025**  
 Intensive full-time bootcamp focused on full-stack JavaScript development. Built scalable web and mobile apps using **Agile**, **pair programming**, and **TDD**, with an emphasis on **debugging**, **collaboration**, and **clean code practices**.
 
 
 ## 📂 Projects
 
-### 🔗 [northcoder news](https://nc-news-sgtb.netlify.app) *(solo project)*  
+### 🔗 northcoder news *(solo project)*  
 A full-stack news aggregator site mimicking Hacker News with voting, commenting and sorting.
 
 - Built with **React**, **Vite**, **Express.js**, and **PostgreSQL**
-- REST API hosted on [Render](https://nc-news-3jz4.onrender.com)
+- REST API hosted on **Render**
 - Demonstrated strong **debugging**, **REST API integration**, and **UI design** skills  
-- **Live Site:** [nc-news-sgtb.netlify.app](https://nc-news-sgtb.netlify.app)  
-- **API:** [nc-news-3jz4.onrender.com](https://nc-news-3jz4.onrender.com)
-
+- **Links:** [Live site](https://nc-news-sgtb.netlify.app) • [API](https://nc-news-3jz4.onrender.com) • [GitHub FE](https://github.com/bluesky2006/nc-news) • [GitHub BE](https://github.com/bluesky2006/nc-news-be)
 
 ### 🤖 reci-p.ai *(group project)*  
 Cross-platform mobile app using **React Native**, **Expo**, and **MongoDB** that helps users recreate recipes from product photos via **OCR** and **Gemini AI**.
