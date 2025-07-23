@@ -1,4 +1,4 @@
-# 👋 Personal Statement
+# 👋 Hi!
 
 I'm a **software developer** and former **print designer** with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**. The tech industry’s mix of **creativity, continuous learning and problem-solving** aligns perfectly with how I like to work.
 
