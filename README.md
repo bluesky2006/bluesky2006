@@ -5,7 +5,7 @@ I'm a **software developer** and former **print designer** with a strong eye for
 📬 **Contact:**  
 [![Email](https://img.shields.io/badge/-simon.busby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.busby@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--busby--frome-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-busby-frome)
-![Location](https://img.shields.io/badge/Location-Frome,%20Somerset-6c757d?style=flat&logo=googlemaps&logoColor=white)
+[!Location](https://img.shields.io/badge/Location-Frome,%20Somerset-6c757d?style=flat&logo=googlemaps&logoColor=white)
 
 ## 🛠️ Technical Skills
 
