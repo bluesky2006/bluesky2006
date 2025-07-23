@@ -7,33 +7,33 @@ I'm a **software developer** and former **print designer** with a strong eye for
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--busby--frome-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-busby-frome)  
 ![Location](https://img.shields.io/badge/Location-Frome,%20Somerset-6c757d?style=flat&logo=googlemaps&logoColor=white)
 
-## 🛠️ Technical Skills
+## 🛠️ Technical skills
 
-### 💻 Languages & Frameworks
+### Languages & frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### 🧪 Testing
+### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![TDD](https://img.shields.io/badge/-TDD-5c2d91?style=flat&logo=testinglibrary&logoColor=white)
 ![Supertest](https://img.shields.io/badge/-Supertest-6c757d?style=flat)
 
-### 🗄️ Back-End
+### Back-end
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-ff6f61?style=flat)
 ![MVC](https://img.shields.io/badge/-MVC%20Pattern-007ACC?style=flat)
 
-### 🤝 Development Practices
+### Development practices
 ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Pair Programming](https://img.shields.io/badge/-Pair%20Programming-8e44ad?style=flat)
 
-### ⚙️ Tooling & Hosting
+### Tooling & hosting
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-00979D?style=flat&logo=render&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -41,17 +41,16 @@ I'm a **software developer** and former **print designer** with a strong eye for
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
 
-### 🎨 Design
+### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 
-## 💼 Technical Experience
+## 💼 Technical experience
 
-### 🧑‍💻 Software Development Bootcamp — *Northcoders*  
-📆 **May–July 2025**  
+### Software Development Bootcamp — *Northcoders*, **May–July 2025**  
 Intensive full-time bootcamp focused on full-stack JavaScript development. Built scalable web and mobile apps using **Agile**, **pair programming**, and **TDD**, with an emphasis on **debugging**, **collaboration**, and **clean code practices**.
 
 
