@@ -2,7 +2,6 @@
 
 I'm a **software developer** and former **print designer** with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**. The tech industry’s mix of **creativity, continuous learning and problem-solving** aligns perfectly with how I like to work.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -44,7 +43,6 @@ I'm a **software developer** and former **print designer** with a strong eye for
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
----
 
 ## 💼 Technical Experience
 
@@ -52,7 +50,8 @@ I'm a **software developer** and former **print designer** with a strong eye for
 📆 **May–July 2025**  
 Intensive full-time bootcamp focused on full-stack JavaScript development. Built scalable web and mobile apps using **Agile**, **pair programming**, and **TDD**, with an emphasis on **debugging**, **collaboration**, and **clean code practices**.
 
----
+
+## 📂 Projects
 
 ### 🔗 [northcoder news](https://nc-news-sgtb.netlify.app) *(solo project)*  
 A full-stack news aggregator site mimicking Hacker News with voting, commenting and sorting.
@@ -63,7 +62,6 @@ A full-stack news aggregator site mimicking Hacker News with voting, commenting 
 - **Live Site:** [nc-news-sgtb.netlify.app](https://nc-news-sgtb.netlify.app)  
 - **API:** [nc-news-3jz4.onrender.com](https://nc-news-3jz4.onrender.com)
 
----
 
 ### 🤖 reci-p.ai *(group project)*  
 Cross-platform mobile app using **React Native**, **Expo**, and **MongoDB** that helps users recreate recipes from product photos via **OCR** and **Gemini AI**.
@@ -71,19 +69,3 @@ Cross-platform mobile app using **React Native**, **Expo**, and **MongoDB** that
 - Led agile planning in a 4-person team: scoped architecture, coordinated version control and tasks
 - Integrated **third-party APIs**, camera/photo upload, and **mobile deployment**
 - Practised **cross-platform** design and collaboration under sprint deadlines
-
----
-<!--
-**bluesky2006/bluesky2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
