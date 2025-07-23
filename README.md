@@ -1,11 +1,9 @@
 # 👋 Hi!
 
-I'm a **software developer** and former **print designer** with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**.
+I'm a **software developer** and former **print designer** based in Somerset, UK with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**.
 
-📬 **Contact:**  
-[![Email](https://img.shields.io/badge/-simon.busby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.busby@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--busby--frome-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-busby-frome)  
-![Location](https://img.shields.io/badge/Location-Frome,%20Somerset-6c757d?style=flat&logo=googlemaps&logoColor=white)
+[![Email](https://img.shields.io/badge/-simon.busby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.busby@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--busby--frome-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-busby-frome)
 
 ## 🛠️ Technical skills
 
@@ -46,13 +44,6 @@ I'm a **software developer** and former **print designer** with a strong eye for
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-
-
-## 💼 Technical experience
-
-### Software Development Bootcamp, *Northcoders*, **May–July 2025**  
-Intensive full-time bootcamp focused on full-stack JavaScript development. Built scalable web and mobile apps using **Agile**, **pair programming**, and **TDD**, with an emphasis on **debugging**, **collaboration**, and **clean code practices**.
-
 
 ## 📂 Projects
 
