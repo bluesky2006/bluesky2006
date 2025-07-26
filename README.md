@@ -2,6 +2,7 @@
 
 I'm a **software developer** and former **print designer** based in Somerset, UK with a strong eye for **clarity, structure and usability**. I’m keen to combine my coding skills and design expertise to build **engaging, well-crafted digital products**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-simonbusby.netlify.app-FFD700?style=flat&logo=personalwebsite&logoColor=black)](https://simonbusby.netlify.app/)
 [![Email](https://img.shields.io/badge/-simon.busby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.busby@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--busby--frome-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-busby-frome)
 
