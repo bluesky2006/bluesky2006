@@ -12,39 +12,35 @@ I'm a **software developer** and former **print designer** based in Somerset, UK
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### Testing
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Databases & APIs
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20API-ff6f61?style=flat)
+![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat)
+
+### Testing & quality
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![TDD](https://img.shields.io/badge/-TDD-5c2d91?style=flat&logo=testinglibrary&logoColor=white)
 ![Supertest](https://img.shields.io/badge/-Supertest-6c757d?style=flat)
 
-### Back-end
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-ff6f61?style=flat)
-![MVC](https://img.shields.io/badge/-MVC%20Pattern-007ACC?style=flat)
-
-### Development practices
-![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Pair Programming](https://img.shields.io/badge/-Pair%20Programming-8e44ad?style=flat)
-
-### Tooling & hosting
+### Tools & hosting
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-00979D?style=flat&logo=render&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
-![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+### Other
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
 
 ## 📂 Projects
 
@@ -62,3 +58,4 @@ Cross-platform mobile app using **React Native**, **Expo**, and **MongoDB** that
 - Led agile planning in a 4-person team: scoped architecture, coordinated version control and tasks
 - Integrated **third-party APIs**, camera/photo upload, and **mobile deployment**
 - Practised **cross-platform** design and collaboration under sprint deadlines
+- **Links** [GitHub](https://github.com/bluesky2006/reci-p.ai) • [Demo](https://www.northcoders.com/blog/reci-p-ai/e)
