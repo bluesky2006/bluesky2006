@@ -46,3 +46,7 @@ Cross-platform mobile app using **React Native**, **Expo**, and **MongoDB** that
 - Integrated **third-party APIs**, camera/photo upload, and **mobile deployment**
 - Practised **cross-platform** design and collaboration under sprint deadlines
 - **Links** [GitHub](https://github.com/bluesky2006/reci-p.ai) • [Demo](https://www.northcoders.com/blog/reci-p-ai/e)
+
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Isometric commit calendar">
+</p>
