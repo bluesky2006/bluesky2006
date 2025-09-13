@@ -15,7 +15,7 @@ I'm a **software developer** and former **print designer** based in Somerset, UK
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=js,react,next,nodejs,express,vite,tailwind,figma,postgres,mongodb,jest,github,netlify,supabase)  
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,vite,tailwind,figma,postgres,mongodb,jest,github,netlify,supabase)  
 <br>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
