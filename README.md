@@ -4,7 +4,7 @@ I'm a **software developer** and former **print designer** based in Somerset, UK
 
 <div>&nbsp;</div>
 
-<div align="center">
+<div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-simonbusby.netlify.app-FFD700?style=flat&logo=personalwebsite&logoColor=black)](https://simonbusby.netlify.app/)
 [![Email](https://img.shields.io/badge/-simon.busby@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.busby@gmail.com)
@@ -13,18 +13,44 @@ I'm a **software developer** and former **print designer** based in Somerset, UK
 
 <div>&nbsp;</div>
 
-<div align="center">
+<div>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,vite,tailwind,figma,postgres,mongodb,jest,github,netlify,supabase)  
-<br>
+### 🖥️ Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+
+---
+
+### ⚙️ Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-ff6f61?style=flat" />
 <img src="https://img.shields.io/badge/MVC-007ACC?style=flat" />
-<img src="https://img.shields.io/badge/TDD-5c2d91?style=flat&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/Supertest-6c757d?style=flat" />
+
+---
+
+### 🛠️ Tools & Platforms
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black" />
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" />
+
+---
+
+### ✅ Testing & Practices
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Supertest-6c757d?style=flat" />
+<img src="https://img.shields.io/badge/TDD-5c2d91?style=flat&logo=testinglibrary&logoColor=white" />
 
 </div>
 <div>&nbsp;</div>
