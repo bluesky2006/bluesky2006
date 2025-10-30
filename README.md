@@ -1,7 +1,6 @@
 # 👋 Hi!
 
-I’m a **design-led web developer** based in Somerset, UK — combining a background in **graphic design and publishing** with modern **front-end and full-stack development**.  
-I build **well-crafted websites, mobile apps and digital tools** that balance clarity, usability and creative detail.
+I’m a **design-led web developer** based in Somerset, UK — combining a background in **graphic design and publishing** with modern **front-end and full-stack development**. I build **well-crafted websites, mobile apps and digital tools** that balance clarity, usability and creative detail.
 
 <div>&nbsp;</div>
 
@@ -20,6 +19,8 @@ I build **well-crafted websites, mobile apps and digital tools** that balance cl
 ---
 
 ### 🖥️ Frontend
+<div>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -30,10 +31,13 @@ I build **well-crafted websites, mobile apps and digital tools** that balance cl
 <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</div>
 
 ---
 
 ### ⚙️ Backend & Databases
+<div>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
@@ -42,10 +46,13 @@ I build **well-crafted websites, mobile apps and digital tools** that balance cl
 <img src="https://img.shields.io/badge/REST_API-ff6f61?style=flat" />
 <img src="https://img.shields.io/badge/API_Integration-009688?style=flat" />
 <img src="https://img.shields.io/badge/MVC-007ACC?style=flat" />
+</div>
 
 ---
 
 ### 🛠️ Tools & Platforms
+<div>
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white" />
@@ -53,16 +60,20 @@ I build **well-crafted websites, mobile apps and digital tools** that balance cl
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white" />
 <img src="https://img.shields.io/badge/CLI_&_Automation-444444?style=flat" />
+</div>
 
 ---
 
 ### ✅ Testing & Practices
+<div>
+
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Supertest-6c757d?style=flat" />
 <img src="https://img.shields.io/badge/TDD-5c2d91?style=flat&logo=testinglibrary&logoColor=white" />
 <img src="https://img.shields.io/badge/Type_Safety-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Accessibility-4285F4?style=flat&logoColor=white" />
 <img src="https://img.shields.io/badge/SEO_Optimisation-34A853?style=flat&logo=google&logoColor=white" />
+</div>
 
 ---
 
@@ -79,7 +90,8 @@ Clean design, category filters (Body / Heart / Mind / Soul) and search.
 ### 🎧 **kr8** *(desktop + mobile ecosystem)*
 A cross-platform record-bag manager for DJs.  
 Desktop built with **Electron + React**, mobile companion in **React Native**, connected via **Supabase / PostgreSQL** for shared playlists and metadata.  
-Focus on UI cohesion, data flow and local/remote sync. Co-programmed with [Joel Kram](https://github.com/pooch1e)  
+Focus on UI cohesion, data flow and local/remote sync.  
+Co-programmed with [Joel Kram](https://github.com/pooch1e)  
 **Links:** [GitHub - desktop](https://github.com/bluesky2006/kr8-desktop) • [GitHub - mobile](https://github.com/bluesky2006/kr8-mobile) • [GitHub - server](https://github.com/bluesky2006/kr8-server)
 
 ---
