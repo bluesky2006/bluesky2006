@@ -83,7 +83,7 @@ I’m a **design-led web developer** based in Somerset, UK — combining a backg
 A digital wellness card-deck app prototype built with **React Native**, **Expo Router**, and **NativeWind**.  
 Local JSON data with planned **Supabase** sync for cloud storage and progress tracking.  
 Clean design, category filters (Body / Heart / Mind / Soul) and search.  
-**Links:** [GitHub (currently private)](https://github.com/bluesky2006/essentience-app) • [Essentience](https://www.essentience.net/)
+**Links:** [GitHub](https://github.com/bluesky2006/essentience-app) • [Essentience](https://www.essentience.net/)
 
 ---
 
