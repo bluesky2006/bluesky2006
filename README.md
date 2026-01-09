@@ -1,6 +1,9 @@
 # 👋 Hi!
 
 I’m a **design-led web developer** based in Somerset, UK — combining a background in **graphic design and publishing** with modern **front-end and full-stack development**. I build **well-crafted websites, mobile apps and digital tools** that balance clarity, usability and creative detail.
+<div>
+
+Please check my pinned repos for project highlights.
 
 <div>&nbsp;</div>
 
